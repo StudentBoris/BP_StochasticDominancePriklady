@@ -23,6 +23,10 @@ Uložisko obsahuje Jupyter notebooky s implementovanými simuláciami vybraných
 - Priklady a znázorneni MV pravidla(mean-variance)
 - Overenia FSD a SSD pri rôznch podmienkach
 
+### SD_podmienky.ipynb
+- Ukážky prikladov na nutné a postačujúce podmienky FSD->SSD
+  
+
 ---
 
 
