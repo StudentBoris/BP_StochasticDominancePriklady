@@ -7,24 +7,26 @@ Uložisko obsahuje Jupyter notebooky s implementovanými simuláciami vybraných
 
 ### FSD_SSD_Diskretne_rozdelenie.ipynb
 - Príklady diskrétnych rozdelení s rovnomerne rozdelenými pravdepodobnosťami  
-- Grafické znázornenie dominancie (FSD a SSD)  
-- Príklad stávky — rozhodovanie podľa postoja k riziku
+- Vizualizácia stochastickej dominancie (FSD, SSD)
+- Príklad rozhodovania podľa postoja k riziku (stávka vs. istý výnos)
 
 ### VaR_priklad.ipynb
-- Ukážka prepojenia medzi stochastickou dominanciou a Value at Risk  
+- Prepojenie stochastickej dominancie a ukazovateľa Value at Risk (VaR 
 - Príklady situácií, kde FSD a VaR sú/nie sú v súlade  
-- Analýza pomocou distribučných funkcií a kvantilov
+- Vizualizácia distribučných a kvantilových funkcií na analýzu rizika
  
 ### SD_kvantiloveFunkcie.ipynb
-- Ukážka distribučných funkcií a kvantilových funkcií rôznch rozdelení
-- Príklady na testovanie FSD a SSD
+- Ukážka rôznych distribučných a kvantilových funkcií (diskrétnych aj spojitých rozdelení)
+- Príklady testovania stochastickej dominancie pomocou kvantilov
 
 ### SD_riešené príklady.ipynb
-- Priklady a znázorneni MV pravidla(mean-variance)
-- Overenia FSD a SSD pri rôznch podmienkach
+- Aplikácia pravidla strednej hodnoty a rozptylu (mean-variance rule)
+- Porovnanie FSD a SSD pri rôznych vstupných parametroch a podmienkách
 
 ### SD_podmienky.ipynb
 - Ukážky prikladov na nutné a postačujúce podmienky FSD->SSD
+- Vizualizácie pomocou distribučných a integrovaných distribučných funkcií
+- Možnosť interaktívnej úpravy vstupných hodnôt (napr. realizácií výnosov) pre okamžité posúdenie, či dominancia platí.
   
 
 ---
