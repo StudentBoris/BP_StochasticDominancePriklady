@@ -14,6 +14,10 @@ Tento repozitár obsahuje Jupyter notebooky s implementovanými simuláciami vyb
 - Ukážka prepojenia medzi stochastickou dominanciou a Value at Risk  
 - Príklady situácií, kde FSD a VaR sú/nie sú v súlade  
 - Analýza pomocou distribučných funkcií a kvantilov
+ 
+### SD_kvantiloveFunkcie.ipynb
+- Ukážka distribučných funkcií a kvantilových funkcií rôznch rozdelení
+- Príklady na testovanie FSD a SSD
 
 ---
 
