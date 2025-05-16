@@ -19,7 +19,12 @@ Uložisko obsahuje Jupyter notebooky s implementovanými simuláciami vybraných
 - Ukážka distribučných funkcií a kvantilových funkcií rôznch rozdelení
 - Príklady na testovanie FSD a SSD
 
+### SD_riešené príklady.ipynb
+- Priklady a znázorneni MV pravidla(mean-variance)
+- Overenia FSD a SSD pri rôznch podmienkach
+
 ---
+
 
 ## Poznámka
 
